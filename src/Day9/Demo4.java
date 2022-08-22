@@ -21,6 +21,9 @@ public class Demo4 {
 
 		driver.findElement(By.cssSelector("input[id'username']")).sendKeys("admin");
 		
+		
+		
+		
 	}
 
 }
