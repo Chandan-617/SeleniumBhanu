@@ -10,6 +10,8 @@ public class Demo1 {
 	{
 		
 		System.out.println("m1 of Demo1");
+		System.out.println("m1 of Demo1");
+
 	}
 
 }
